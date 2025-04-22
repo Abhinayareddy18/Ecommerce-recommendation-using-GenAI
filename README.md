@@ -51,6 +51,7 @@ streamlit run app.py
 ## Dataset
 
 The project utilizes the Flipkart e-commerce dataset, which contains information about various products sold on the Flipkart platform. The dataset includes details such as product name, description, category, price, brand, and more. You can replace the dataset with your own e-commerce dataset in CSV format.
+https://www.kaggle.com/datasets/atharvjairath/flipkart-ecommerce-dataset/data
 
 ## Set up the vector database file:
 
